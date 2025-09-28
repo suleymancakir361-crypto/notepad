@@ -1,4 +1,4 @@
-/* Genel sayfa ayarları */
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
@@ -11,7 +11,7 @@ body {
     box-sizing: border-box;
 }
 
-/* Label stil */
+
 label {
     font-size: 18px;
     font-weight: bold;
@@ -19,7 +19,7 @@ label {
     display: block;
 }
 
-/* Textarea stil */
+
 textarea {
     width: 100%;
     max-width: 600px;
@@ -39,7 +39,7 @@ textarea:focus {
     box-shadow: 2px 2px 15px rgba(74,144,226,0.3);
 }
 
-/* Butonlar */
+
 button {
     padding: 12px 25px;
     font-size: 16px;
@@ -51,7 +51,7 @@ button {
     color: #fff;
 }
 
-/* Kaydet butonu */
+
 #kaydet {
     background-color: #4CAF50;
 }
@@ -62,7 +62,7 @@ button {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-/* Sil butonu */
+
 #sil {
     background-color: #f44336;
 }
@@ -73,7 +73,7 @@ button {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-/* Responsive (mobil uyumluluk) */
+
 @media (max-width: 650px) {
     textarea {
         width: 100%;
